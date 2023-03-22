@@ -1,0 +1,19 @@
+#footer  a{
+    color: black    ;
+}
+div#wrapperHeader {
+    text-align:center;
+    background-color: black;
+   }
+   
+   div#wrapperHeader div#header {
+    width:200;
+    height:50px;
+    margin:0 auto;
+   }
+   
+   div#wrapperHeader div#header img {
+    width: 200; /* the width of the logo image */
+    height: 100; /* the height of the logo image */
+    margin:0 auto;
+   }
