@@ -19,6 +19,22 @@ div#wrapperHeader {
    #content{
     text-align: center;
    }
-   #phrase{
-    font-size: large;
+   #center{
+    font-size: 40px;
+    text-align: center;
+    padding: 2  0px;
+    font-family: 'Brush Script MT', cursive;
+    color: #2E475D;
+   }
+   h6{
+    text-align: center;
+    color: black;
+   }
+   div#wrapperFooter div#imageFooter{
+    align-self: center;
+    background-color: white;
+   }
+   #tutube{
+    text-align: center;
+    align-self: center;
    }
