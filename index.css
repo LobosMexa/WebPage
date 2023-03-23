@@ -9,8 +9,16 @@ div#wrapperHeader {
    div#wrapperHeader div#image {
     align-self: center;
     height:100px;
-    padding-bottom: ;
     margin: auto;
     position: relative;
     top: 10px;
+   }
+   #navs{
+    color:black;
+   }
+   #content{
+    text-align: center;
+   }
+   #phrase{
+    font-size: large;
    }
